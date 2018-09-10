@@ -1,5 +1,5 @@
 .idea/
+.git/
 node_modules/
-errorShots
-.git
-allure-results
+errorShots/
+allure-results/
