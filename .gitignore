@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+errorShots
+.git
+allure-results
